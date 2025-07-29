@@ -99,10 +99,10 @@ This project highlights how data analytics can transform raw hospitality data in
 
 ## Contact
 
-Open to Data Analyst / Business Analyst roles.  
+Open to Data Analyst / Business Analyst / Junior Data Scientist roles.  
 Feel free to connect for collaboration or project discussions:  
 - Email: mathanponraj03@gmail.com  
 - LinkedIn: [www.linkedin.com/in/mathan03](https://www.linkedin.com/in/mathan03)
-
+- Phone No: +91 7339404085
 ---
 
